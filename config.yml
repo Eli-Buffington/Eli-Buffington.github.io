@@ -1,1 +1,16 @@
+#
+# This file contains configuration flags to customize your site
+#
+
+# Name of your site (displayed in the header)
+name: Projects 
+
+# Name of the author
+author: Eli Buffington
+
+# Short bio or description (displayed in the header)
+description: Work at Whitman College 
+
+# URL of your avatar or profile pic (you could use your GitHub profile pic)
+
 

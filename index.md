@@ -1,5 +1,6 @@
 ---
 layout: default
+"id-token: write"
 ---
 
 <div class="posts">

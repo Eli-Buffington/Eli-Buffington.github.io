@@ -13,7 +13,7 @@ layout: default
 - [EBAY Mario Cart Auctions](https://www.openintro.org/data/index.php?data=mariokart)
   - Auction data from Ebay for the game Mario Kart for the Nintendo Wii, possible analysis include: Tracking the prices to see if the prices stay high at the beginning, then fall as new games come out, then rise again as they become nostalgic, which is a common trend in gaming.
 
-#Where's Schueller? 
+# Where's Scheuller?
 
 <iframe src="fig.html" width="800" height="600"></iframe>
 

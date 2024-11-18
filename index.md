@@ -19,6 +19,6 @@ layout: default
 
 # Where's Scheuller: Above and Beyond?
 
-[![View Plotly Graph](https://img.shields.io/badge/View%20Plotly%20Graph-blue)]("fig.html")
+[![View Plotly Graph](https://img.shields.io/badge/View%20Plotly%20Graph-blue)](fig.html)
 
 

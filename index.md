@@ -17,3 +17,8 @@ layout: default
 
 <iframe src="fig.html" width="800" height="600"></iframe>
 
+# Where's Scheuller: Above and Beyond?
+
+[![View Plotly Graph](https://img.shields.io/badge/View%20Plotly%20Graph-blue)]("fig.html")
+
+

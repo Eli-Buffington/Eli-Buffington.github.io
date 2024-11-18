@@ -15,3 +15,5 @@ layout: default
 
 #Where's Schueller? 
 
+<iframe src="https://Eli-Buffington.github.io/main/fig.html" width="800" height="600"></iframe>
+

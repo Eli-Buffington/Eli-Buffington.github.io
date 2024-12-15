@@ -26,4 +26,7 @@ Adding a Button to open the visualization larger in a new tab.
 
 # Correlation between Carbon Dioxide Emissions and Temperature in the United States
 
+Is there a correlation between a change in carbon dioxide emissions and a change in Temperature? We used temperature and carbon dioxide data from the United States from 1991 to 2019. We then regressed the change in carbon dioxide emissions on the change in temperature, both shifted and unshifted, to find the correlation between these two datasets by obtaining a p-value and a line of best fit. 
+
+
 [Temperature Analysis](https://eli-buffington.github.io/Temperature-/)

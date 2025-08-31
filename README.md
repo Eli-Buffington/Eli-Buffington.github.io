@@ -1,4 +1,4 @@
 Name: Eli Buffington,
 College: Whitman College, 
 Major(s): Economics and Mathematics,
-GPA: 3.95
+GPA: 3.89
